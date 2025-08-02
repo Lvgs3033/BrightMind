@@ -1,1 +1,1 @@
-https://preview-brightmind-website-kzmgdoirb5gsm458y535.vusercontent.net/contact
+Live Preview : https://brigh-mind-ukey.vercel.app/
